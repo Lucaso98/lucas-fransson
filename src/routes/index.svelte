@@ -7,12 +7,13 @@
         class="relative z-20 m-auto shadow-md shadow-neutral-600 flex p-10 h-4/6 w-4/6 bg-transparent backdrop-blur-md rounded-3xl"
     >
         <div class="self-center w-2/4">
-            <h1 class="text-white text-6xl font-bold">Lucas Fransson</h1>
-            <p class="text-white leading-relaxed mt-3 text-xl">
+            <h1 class="text-white text-6xl font-bold mb-2">Lucas Fransson</h1>
+            <h2 class="text-white text-4xl font-semibold mb-4">Web Developer</h2>
+            <p class="text-white leading-relaxed text-xl mb-4">
                 I’m a Front-End Developer with a passion for design, a good user experience and a
                 user-friendly interface
             </p>
-            <div class="flex w-1/3 justify-between m-auto">
+            <div class="flex w-1/3 justify-between">
                 <button class="bg-white text-base font-medium text-black p-3 rounded-2xl">Contact</button>
                 <button class="text-white font-medium text-base">My work</button>
             </div>
